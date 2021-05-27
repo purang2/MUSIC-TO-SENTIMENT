@@ -1,7 +1,8 @@
 # 🎻🎹 MUSIC-TO-SENTIMENT😄😥😠
 
-2021-1 뇌인지공학 Term Project
+2021-1 뇌인지공학 Term Project  
 
+**[👀🤜ing~ 06/08]**
 
 ## Proposal(제안서)
 
