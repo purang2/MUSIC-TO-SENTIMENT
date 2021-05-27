@@ -5,7 +5,7 @@
 
 ## Proposal(제안서)
 
-<img src="images/슬라이드1.PNG",width=80% height=80%>  
+<img src="images/슬라이드1.PNG">  
 
 <img src="images/슬라이드2.PNG",width=80% height=80%> 
 
