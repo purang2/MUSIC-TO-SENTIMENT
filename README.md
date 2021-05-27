@@ -15,3 +15,12 @@
 <img src="images/슬라이드6.PNG" width=80% height=80%>  
 <img src="images/슬라이드7.PNG" width=80% height=80%>  
 
+
+
+
+## 📖References (참고자료들)
+
+- [[Librosa] 음성인식 기초 및 음악분류 & 추천 알고리즘](https://jonhyuk0922.tistory.com/m/114)  
+- [Librosa- Advanced examples](https://librosa.org/doc/latest/advanced.html#advanced)  
+
+
