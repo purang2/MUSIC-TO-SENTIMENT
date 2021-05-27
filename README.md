@@ -8,6 +8,15 @@
 **[👀🤜ing~ 06/08]**
 
 
+## 📜Plan (계획) 
+
+|Task|Date|
+|---|---|
+|Free coding with Kaggle Music Dataset|~05/31|
+|Music,Speech Recognition Modeling|~06/02|
+|<span style="color:green">Music,Speech to Sentiment</span>|~06/04|
+|발표준비|~06/07|
+
 
 
 
