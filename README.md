@@ -4,7 +4,7 @@
 
 **[👀🤜ing~ 06/08]**
 
-## Proposal(제안서)
+## 👨🏼‍🔬Proposal (제안서)
 
 
 <img src="images/슬라이드1.PNG" width=80% height=80%>  
