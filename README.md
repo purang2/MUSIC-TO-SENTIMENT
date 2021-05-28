@@ -1,4 +1,4 @@
-# 🎻🎹 MUSIC-TO-SENTIMENT😄😥😠
+﻿# 🎻🎹 MUSIC-TO-SENTIMENT😄😥😠
 
 2021-1 뇌인지공학 Term Project  
 
@@ -47,4 +47,7 @@
 - [[Librosa] 음성인식 기초 및 음악분류 & 추천 알고리즘](https://jonhyuk0922.tistory.com/m/114)  
 - [Librosa- Advanced examples](https://librosa.org/doc/latest/advanced.html#advanced)   
 - [MFCC by Sooftware 블로그](http://blog.naver.com/PostView.nhn?blogId=sooftware&logNo=221661644808)  
-- [Frequency domain & FFT by 블로그](https://seungheondoh.netlify.app/blog/fft)  
+- [Frequency domain & FFT by 블로그](https://seungheondoh.netlify.app/blog/fft)   
+- [음성/음악신호+머신러닝 초심자를 위한 가이드 by Blog](http://keunwoochoi.blogspot.com/2016/12/3.html)    
+- [Melon Playlist 곡 추천 머신러닝 대회 by KakaoArena](https://arena.kakao.com/c/8)  
+- [멜론 플레이리스트 데이터 탐색](https://brunch.co.kr/@kakao-it/343)  
