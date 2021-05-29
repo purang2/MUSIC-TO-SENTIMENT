@@ -50,4 +50,6 @@
 - [Frequency domain & FFT by 블로그](https://seungheondoh.netlify.app/blog/fft)   
 - [음성/음악신호+머신러닝 초심자를 위한 가이드 by Blog](http://keunwoochoi.blogspot.com/2016/12/3.html)    
 - [Melon Playlist 곡 추천 머신러닝 대회 by KakaoArena](https://arena.kakao.com/c/8)  
-- [멜론 플레이리스트 데이터 탐색](https://brunch.co.kr/@kakao-it/343)  
+- [멜론 플레이리스트 데이터 탐색](https://brunch.co.kr/@kakao-it/343)   
+- [Kaggle GTZAN Dataset - Music Genre Classification](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification)  
+- [Kaggle Code - Work w/ Audio Data: Visualise, Classify, Recommend](https://www.kaggle.com/andradaolteanu/work-w-audio-data-visualise-classify-recommend)   
