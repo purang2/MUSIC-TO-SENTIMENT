@@ -29,6 +29,16 @@
 - 그래도 Brain과 연관 짓는 것을 잊으면 안된다 -> Class title이 Brain...  -> ⭐Mel-scale,MFCC는 달팽이관의 청각인식과 관련이 깊다 발표에서 이를 Intro로 사용하자!  
 - 그러하다
 
+**2021-05-31 (Mon)** 
+
+- Music → Sentiment를 좌우하는 요소들⭐ 
+  - Tempo, beat, bpm 등 
+  - Lyrics 
+  - Tone of the singer
+
+
+
+
 ---
 
 
