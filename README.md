@@ -37,6 +37,12 @@
   - Tone of the singer
 
 
+**2021-06-01 (Tue)** 
+
+- 뇌인지공학 week 14 수업  
+  - 텀프 제출 방식 PPT발표 → 2page paper 제출로 변경됨 
+
+
 
 
 ---
