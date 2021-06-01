@@ -42,6 +42,10 @@
 - 뇌인지공학 week 14 수업  
   - 텀프 제출 방식 PPT발표 → 2page paper 제출로 변경됨 
 
+- 어떤 데이터를 훈련에 사용할 것인가???  
+	- 많은 시행착오를 통해 정해보자  
+- 일단 가지고 있는 음원 데이터들을 Mel-Spectrogram화 해보기 !!  
+	- 데이터: GTZAN Dataset, SoundCloud, ...
 
 
 
