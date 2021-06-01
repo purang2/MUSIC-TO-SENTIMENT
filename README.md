@@ -37,6 +37,12 @@
   - Tone of the singer
 
 
+**2021-06-01 (Tue)** 
+
+- 뇌인지공학 week 14 수업  
+  - 텀프 제출 방식 PPT발표 → 2page paper 제출로 변경됨 
+
+
 
 
 ---
@@ -71,3 +77,4 @@
 - [Kaggle GTZAN Dataset - Music Genre Classification](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification)  
 - [Kaggle Code - Work w/ Audio Data: Visualise, Classify, Recommend](https://www.kaggle.com/andradaolteanu/work-w-audio-data-visualise-classify-recommend)   
 - [ AI에게 어떻게 음성을 가르칠까?->사람 청각과 연관해서 by Kakao Enterprise 기술블로그](https://tech.kakaoenterprise.com//66)  
+- [논문 A Tutorial on Deep Learning for Music Information Retrieval, Keunwoo Choi](https://arxiv.org/pdf/1709.04396.pdf)
