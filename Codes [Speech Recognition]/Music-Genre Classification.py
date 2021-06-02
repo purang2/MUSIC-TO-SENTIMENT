@@ -12,6 +12,7 @@ import librosa
 import numpy as np 
 from sklearn.model_selection import train_test_split 
 
+from sklearn import preprocessing
 
 
 import IPython.display as ipd 
@@ -27,7 +28,7 @@ df = pd.read_csv('../Data/features_3_sec.csv')
 X = df.drop(columns=['filename','length','label'])
 y = df['label'] #장르명
 
-scaler = sklearn.preprocessing.MinMaxScaler()
+scaler = preprocessing.MinMaxScaler()
 np_scaled = scaler.fit_transform(X)
 
 

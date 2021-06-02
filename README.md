@@ -47,6 +47,12 @@
 - 일단 가지고 있는 음원 데이터들을 Mel-Spectrogram화 해보기 !!  
 	- 데이터: GTZAN Dataset, SoundCloud, ...
 
+**2021-06-02 (Tue)** 
+
+- 모델 구현에 대한 생각 중.. 
+	- 멜스펙토그램의 이미지를 훈련 데이터로 하여 CNN 기반의 모델로 접근하는 것이 좋을듯 
+	- ResNet with Keras [사전에 훈련된 ResNet을 제공하므로 매우 구현,사용 쉬움] 
+	- 
 
 
 ---
@@ -81,4 +87,5 @@
 - [Kaggle GTZAN Dataset - Music Genre Classification](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification)  
 - [Kaggle Code - Work w/ Audio Data: Visualise, Classify, Recommend](https://www.kaggle.com/andradaolteanu/work-w-audio-data-visualise-classify-recommend)   
 - [ AI에게 어떻게 음성을 가르칠까?->사람 청각과 연관해서 by Kakao Enterprise 기술블로그](https://tech.kakaoenterprise.com//66)  
-- [논문 A Tutorial on Deep Learning for Music Information Retrieval, Keunwoo Choi](https://arxiv.org/pdf/1709.04396.pdf)
+- [논문 A Tutorial on Deep Learning for Music Information Retrieval, Keunwoo Choi](https://arxiv.org/pdf/1709.04396.pdf)  
+- [비디오 Introduction to Analysis for Sound data](http://dmqm.korea.ac.kr/activity/seminar/305)  

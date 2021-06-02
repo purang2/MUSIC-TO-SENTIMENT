@@ -23,6 +23,8 @@ print('Audio length (seconds): %.2f' % (len(y) / sr))
 ipd.Audio(y, rate=sr)
 
 
+
+
 ## 2D 음파 그래프
 plt.figure(figsize= (16,6))
 librosa.display.waveplot(y=y,sr=sr)
