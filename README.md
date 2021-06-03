@@ -52,7 +52,15 @@
 - 모델 구현에 대한 생각 중.. 
 	- 멜스펙토그램의 이미지를 훈련 데이터로 하여 CNN 기반의 모델로 접근하는 것이 좋을듯 
 	- ResNet with Keras [사전에 훈련된 ResNet을 제공하므로 매우 구현,사용 쉬움] 
-	- 
+
+
+**2021-06-03 (Tue)** 
+
+- ResNet + MFCC,Mel-Spectrogram으로 모델 확정!😃  
+- Dataset
+	- Sample: GTZAN[Music-genre labeled] 
+	- My: 그냥 ... 음원녹음해서 100개정도 ? [KPOP]-> 장르 예측을 잘 하는지  
+
 
 
 ---
