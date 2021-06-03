@@ -88,4 +88,6 @@
 - [Kaggle Code - Work w/ Audio Data: Visualise, Classify, Recommend](https://www.kaggle.com/andradaolteanu/work-w-audio-data-visualise-classify-recommend)   
 - [ AI에게 어떻게 음성을 가르칠까?->사람 청각과 연관해서 by Kakao Enterprise 기술블로그](https://tech.kakaoenterprise.com//66)  
 - [논문 A Tutorial on Deep Learning for Music Information Retrieval, Keunwoo Choi](https://arxiv.org/pdf/1709.04396.pdf)  
-- [비디오 Introduction to Analysis for Sound data](http://dmqm.korea.ac.kr/activity/seminar/305)  
+- [비디오 Introduction to Analysis for Sound data](http://dmqm.korea.ac.kr/activity/seminar/305)   
+- [🌟논문 Deep Music Genre by Stanford University](http://cs231n.stanford.edu/reports/2017/pdfs/22.pdf)
+
