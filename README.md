@@ -32,10 +32,10 @@
 **2021-05-31 (Mon)** 
 
 - Music → Sentiment를 좌우하는 요소들⭐ 
-  - Tempo, beat, bpm 등 
+  - Tune(곡조,선율,음),Tempo, beat, bpm 등 
   - Lyrics 
   - Tone of the singer
-
+  
 
 **2021-06-01 (Tue)** 
 
@@ -89,5 +89,5 @@
 - [ AI에게 어떻게 음성을 가르칠까?->사람 청각과 연관해서 by Kakao Enterprise 기술블로그](https://tech.kakaoenterprise.com//66)  
 - [논문 A Tutorial on Deep Learning for Music Information Retrieval, Keunwoo Choi](https://arxiv.org/pdf/1709.04396.pdf)  
 - [비디오 Introduction to Analysis for Sound data](http://dmqm.korea.ac.kr/activity/seminar/305)   
-- [🌟논문 Deep Music Genre by Stanford University](http://cs231n.stanford.edu/reports/2017/pdfs/22.pdf)
-
+- [🌟논문 Deep Music Genre for GTZAN, by Stanford University](http://cs231n.stanford.edu/reports/2017/pdfs/22.pdf)
+- [논문 감정 인식을 통한 음악 검색 성능 분석 for GTZAN by 강릉원주대](https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO201518564243942&oCn=JAKO201518564243942&dbt=JAKO&journal=NJOU00297548)
