@@ -1,11 +1,11 @@
-﻿# 🎻🎹 MUSIC-TO-SENTIMENT😄😥😠
+# 🎻🎹 MUSIC-TO-SENTIMENT😄😥😠
 
 2021-1 뇌인지공학 Term Project  
 
 
 
 
-**[👀🤜ing~ 06/08]**
+**[👀🤜ing~ 06/24]**
 
 
 ## 📜Plan (계획) 
@@ -13,9 +13,9 @@
 |Task|Date|
 |---|---|
 |Free coding with Kaggle Music Dataset|~05/31|
-|Music,Speech Recognition Modeling|~06/02|
-|<span style="color:green">Music,Speech to Sentiment</span>|~06/04|
-|발표준비|~06/07|
+|Music,Speech Recognition Modeling|~06/12|
+|<span style="color:green">Music,Speech to Sentiment</span>|~06/18|
+|논문보고서 준비|~06/24|
 
 
 
@@ -47,14 +47,14 @@
 - 일단 가지고 있는 음원 데이터들을 Mel-Spectrogram화 해보기 !!  
 	- 데이터: GTZAN Dataset, SoundCloud, ...
 
-**2021-06-02 (Tue)** 
+**2021-06-02 (Wed)** 
 
 - 모델 구현에 대한 생각 중.. 
 	- 멜스펙토그램의 이미지를 훈련 데이터로 하여 CNN 기반의 모델로 접근하는 것이 좋을듯 
 	- ResNet with Keras [사전에 훈련된 ResNet을 제공하므로 매우 구현,사용 쉬움] 
 
 
-**2021-06-03 (Tue)** 
+**2021-06-03 (Thu)** 
 
 - ResNet + MFCC,Mel-Spectrogram으로 모델 확정!😃  
 - Dataset
@@ -62,6 +62,9 @@
 	- My: 그냥 ... 음원녹음해서 100개정도 ? [KPOP]-> 장르 예측을 잘 하는지  
 
 
+**2021-06-04 (Fri)** 
+
+- 개발 하루 쉬기 , 연구 공부하기 !
 
 ---
 
@@ -98,4 +101,5 @@
 - [논문 A Tutorial on Deep Learning for Music Information Retrieval, Keunwoo Choi](https://arxiv.org/pdf/1709.04396.pdf)  
 - [비디오 Introduction to Analysis for Sound data](http://dmqm.korea.ac.kr/activity/seminar/305)   
 - [🌟논문 Deep Music Genre for GTZAN, by Stanford University](http://cs231n.stanford.edu/reports/2017/pdfs/22.pdf)
-- [논문 감정 인식을 통한 음악 검색 성능 분석 for GTZAN by 강릉원주대](https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO201518564243942&oCn=JAKO201518564243942&dbt=JAKO&journal=NJOU00297548)
+- [논문 감정 인식을 통한 음악 검색 성능 분석 for GTZAN by 강릉원주대](https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO201518564243942&oCn=JAKO201518564243942&dbt=JAKO&journal=NJOU00297548)  
+- [[AI 콜로퀴움] 인공지능의 음악적 소양(이교구 교수)](https://aiis.snu.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=37&page=3)  
